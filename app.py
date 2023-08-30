@@ -69,6 +69,6 @@ if st.button('Submit'):
 	if predictions==1:
 		st.write('stroke')
 	elif predictions==0:
-		st.write('no stroke')
+	       st.write('no stroke')
 	st.balloons()
 	
