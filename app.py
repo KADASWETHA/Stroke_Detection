@@ -5,7 +5,7 @@ import joblib as jb
 
 heading_style = '''
 <div style="color:red;" align='center'>
-<h1>stroke prediction</h1>
+<h1>Heart stroke prediction</h1>
 </div>
 '''
 def return_df(
